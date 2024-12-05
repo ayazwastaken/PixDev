@@ -27,7 +27,7 @@ export function skillFunctionality(){
       type: 'tech-stack'
     },
     {
-      icon:'images/icons/Game.png',
+      icon:'images/icons/game.png',
       name: 'GAME DEV',
       type: 'tech-stack'
     },
