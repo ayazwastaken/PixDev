@@ -27,6 +27,11 @@ export function skillFunctionality(){
       type: 'tech-stack'
     },
     {
+      icon:'images/icons/game.png',
+      name: 'GAME DEV',
+      type: 'tech-stack'
+    },
+    {
       icon:'images/icons/visual-studio.png',
       name: 'VS CODE',
       type: 'tool'
